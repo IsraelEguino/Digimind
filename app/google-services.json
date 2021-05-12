@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71505145554",
+    "project_id": "mydigimind-281be",
+    "storage_bucket": "mydigimind-281be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71505145554:android:c6a732ead2d4e346f2870b",
+        "android_client_info": {
+          "package_name": "eguino.iribe.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71505145554-0lfc0v958sk4768s23n51qhovvv9hgg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eguino.iribe.mydigimind",
+            "certificate_hash": "5e89b8e25d945947f377557a45a43ddad2d34753"
+          }
+        },
+        {
+          "client_id": "71505145554-ja14dcfgl0jgacb4cbd3mle8ntvj08it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIj_QlG0dplkL7Tap_vAjZg2zG8IpDP9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71505145554-ja14dcfgl0jgacb4cbd3mle8ntvj08it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
